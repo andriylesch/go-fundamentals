@@ -7,6 +7,7 @@ import (
 func main() {
 
 	//different ways for initializing array
+
 	array1 := [3]int{1, 2, 3}
 	array2 := [...]int{1, 2, 3}
 	array3 := [3]int{1, 2}
